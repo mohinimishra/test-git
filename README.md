@@ -28,5 +28,5 @@ git commit -m "message"
 
 * To Push the Files
 ```bash
-git push origin (branch name)
+git push origin <branch name>
 ```
